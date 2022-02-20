@@ -9,3 +9,4 @@ To get meta-data from pictures you would use Image-Info and to strip pictures of
 First of all when you download the executable file
 
 Move the imageinfo.exe to your User folder and make sure your photos folder is named **Pictures**
+![image](https://github.com/paulfruitful/Exif-Tools/blob/master/test2.png?raw=true)
