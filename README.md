@@ -34,3 +34,5 @@ Then open the executable and it would automatically iterate the Pictures folder 
 Your photos are now sucessfully disarmed and you can test that with the Image-Info.
 
 **NB:** You are not allowed to use this tools on people's pictures without their consent
+<button href="https://github.com/paulfruitful/Exif-Tools/raw/main/imageinfo.exe" style="bg-color:blue; color:white;">Download Image-Info</button>
+<button href="https://github.com/paulfruitful/Exif-Tools/raw/main/image-stripper.exe" style="bg-color:blue; color:white;">Download Image-stripper</button>
