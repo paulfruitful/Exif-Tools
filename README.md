@@ -5,6 +5,9 @@ Did you know that pictures can be used to get useful information such as locatio
 
 To get meta-data from pictures you would use Image-Info and to strip pictures of their meta-data you would use Image-stripper.
 
+
+<img src="https://github.com/paulfruitful/Exif-Tools/blob/main/imageinfo2.JPG" alt="Image info">
+
 **Usage Of Image-Info**
 
 First of all when you download the executable file
@@ -17,7 +20,11 @@ Then open the executable and choose the format you want to receive the exif data
 
 If you choosed the file format it would create a filed named image-info.txt in the directory and the same thing goes for the CSV format
 
+
+<img src="https://github.com/paulfruitful/Exif-Tools/blob/main/imagestripper.JPG" alt="Image Stripper">
+
 **Usage of Image-Stripper**
+
 First of all  download the executable file
 
 Move the image-stripper.exe to your User folder and make sure your photos folder is named **Pictures**
